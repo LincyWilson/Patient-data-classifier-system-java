@@ -107,7 +107,7 @@ This project highlights the transformative impact of big data technologies on he
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for details.
 
 
 
